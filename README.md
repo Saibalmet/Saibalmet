@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saibalmet
 - 👀 I’m interested in Data Science projects
-- 🌱 I’m currently learning Power Automate Desktop
 - 📫 How to reach me saibal1379met@gmail.com
 
 <!---

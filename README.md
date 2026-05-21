@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saibalmet
-- 👀 I’m interested in Data Science projects
+- 👀 I’m interested in AI and Automation projects
 - 📫 How to reach me saibal1379met@gmail.com
 
 <!---
